@@ -1,4 +1,4 @@
-## ** Customer Trends Analysis — SQL, Python & Power BI **
+ ** Customer Trends Analysis — SQL, Python & Power BI **
 
 An end-to-end customer behavior and retail analytics project using Python, SQL, and Power BI. 
 This project demonstrates the complete data analytics workflow — from raw data preparation and exploratory analysis to SQL-based business analysis, data modeling,
@@ -95,6 +95,10 @@ I also used Power Query and DAX to prepare the data and create the required calc
 
 
 📂 Project Structure
+
+
+
+
 Customer-Trends-Analysis-SQL-Python-Power-BI/
 │
 ├── dataset/
